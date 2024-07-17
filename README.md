@@ -34,7 +34,7 @@ Steps
 Clone the repository:
 
 
-git clone https://github.com/holand360/credit-card-system-analysis.git
+git clone https://github.com/holand360/capstone-350.git
 cd credit-card-system-analysis
 Install the required Python libraries:
 
