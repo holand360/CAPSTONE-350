@@ -1,0 +1,34 @@
+2024-Jun-24-11:56:24,ETL Job Started
+2024-Jun-24-11:56:24,Extract phase Started
+2024-Jun-24-11:57:12,ETL Job Started
+2024-Jun-24-11:57:12,Extract phase Started
+2024-Jun-24-12:07:41,ETL Job Started
+2024-Jun-24-12:07:41,Extract phase Started
+2024-Jun-24-12:56:16,ETL Job Started
+2024-Jun-24-12:56:16,Extract phase Started
+2024-Jun-24-16:05:01,ETL Job Started
+2024-Jun-24-16:05:01,Extract phase Started
+2024-Jun-24-17:08:39,ETL Job Started
+2024-Jun-24-17:08:39,Extract phase Started
+2024-Jun-24-17:08:39,Error reading JSON file cdw_sapp_branch.json: Expected object or value
+2024-Jun-24-17:08:40,Error reading JSON file cdw_sapp_credit.json: Expected object or value
+2024-Jun-24-17:08:40,Error reading JSON file cdw_sapp_customer.json: Expected object or value
+2024-Jun-24-17:08:40,Extract phase Ended
+2024-Jun-24-17:08:40,Transform phase Started
+2024-Jun-24-17:08:40,Transform phase Ended
+2024-Jun-24-17:08:40,Load phase Started
+2024-Jun-24-17:08:40,Load phase Ended
+2024-Jun-24-17:08:40,ETL Job Ended
+2024-Jun-26-21:19:36,ETL Job Started
+2024-Jun-26-21:19:36,Extract phase Started
+2024-Jun-26-21:19:58,ETL Job Started
+2024-Jun-26-21:19:58,Extract phase Started
+2024-Jun-26-21:19:58,Error reading JSON file cdw_sapp_branch.json: Expected object or value
+2024-Jun-26-21:19:58,Error reading JSON file cdw_sapp_credit.json: Expected object or value
+2024-Jun-26-21:19:58,Error reading JSON file cdw_sapp_customer.json: Expected object or value
+2024-Jun-26-21:19:58,Extract phase Ended
+2024-Jun-26-21:19:58,Transform phase Started
+2024-Jun-26-21:19:58,Transform phase Ended
+2024-Jun-26-21:19:58,Load phase Started
+2024-Jun-26-21:19:58,Load phase Ended
+2024-Jun-26-21:19:58,ETL Job Ended
